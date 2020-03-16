@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Thirty</string>
+    <string name="buttonRollText">Roll</string>
+    <string name="txtThrowNmbText">Throw your dice!</string>
+    <string name="txtRoundNmbText">Round: 1/10</string>
+    <string name="dialogText">Round done. Choose point-system</string>
+    <string name="dialogButtonText">Pang</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_text">Round over</string>
+    <string name="button_choose_scoring_text">Choose scoring</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="resultScreen_buttonText">Next round</string>
+    <string name="total_score">Total score: 0p</string>
+</resources>

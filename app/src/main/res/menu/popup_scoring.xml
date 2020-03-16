@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/low"
+        android:title="LOW" />
+    <item
+        android:id="@+id/four"
+        android:title="four" />
+    <item
+        android:id="@+id/five"
+        android:title="five" />
+    <item
+        android:id="@+id/six"
+        android:title="six" />
+    <item
+        android:id="@+id/seven"
+        android:title="seven" />
+    <item
+        android:id="@+id/eight"
+        android:title="eight" />
+    <item
+        android:id="@+id/nine"
+        android:title="nine" />
+    <item
+        android:id="@+id/ten"
+        android:title="ten" />
+    <item
+        android:id="@+id/eleven"
+        android:title="eleven" />
+    <item
+        android:id="@+id/twelve"
+        android:title="twelve" />
+
+
+</menu>
